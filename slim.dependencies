@@ -8,6 +8,6 @@
         "repository": "slimroms/proprietary_vendor_samsung",
         "target_path": "vendor/samsung",
         "branch": "jb4.2"
-      }
+      },
 ]
 
